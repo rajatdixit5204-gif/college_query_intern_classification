@@ -38,13 +38,13 @@ st.markdown("""
 @st.cache_resource
 def load_model():
     return joblib.load(
-        "models/college_intent_model.pkl"
+        "college_intent_model.pkl"
     )
 
 @st.cache_data
 def load_data():
     return pd.read_csv(
-        "dataset/college_query_dataset.csv"
+        "college_query_dataset.csv"
     )
 
 def clean_text(text):
