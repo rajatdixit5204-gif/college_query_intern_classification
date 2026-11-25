@@ -1,0 +1,181 @@
+text,intent,clean_text
+How can I download my exam admit card?,Exam,how can i download my exam admit card
+How can I check my exam result?,Exam,how can i check my exam result
+Can I apply for admission online?,Admission,can i apply for admission online
+What happens if I miss an examination?,Exam,what happens if i miss an examination
+I paid my fees but the portal is not updated,Fees,i paid my fees but the portal is not updated
+What facilities are provided in the hostel?,Hostel,what facilities are provided in the hostel
+Are laundry facilities available?,Hostel,are laundry facilities available
+Where can I find the admission application form?,Admission,where can i find the admission application form
+When will the semester exams start?,Exam,when will the semester exams start
+Are there classes on Saturday?,Timetable,are there classes on saturday
+Is there a merit list for admission?,Admission,is there a merit list for admission
+What is the hostel fee?,Hostel,what is the hostel fee
+What is the procedure for cancelling admission?,Admission,what is the procedure for cancelling admission
+Can I pay my fees through UPI?,Fees,can i pay my fees through upi
+Can I renew my scholarship next year?,Scholarship,can i renew my scholarship next year
+Why has my scholarship not been credited?,Scholarship,why has my scholarship not been credited
+Has today's class schedule changed?,Timetable,has todays class schedule changed
+How can I apply for admission?,Admission,how can i apply for admission
+How much scholarship can I receive?,Scholarship,how much scholarship can i receive
+Has the timetable for this semester been released?,Timetable,has the timetable for this semester been released
+Is food included in hostel charges?,Hostel,is food included in hostel charges
+What is the passing mark for the exam?,Exam,what is the passing mark for the exam
+Which payment methods are accepted for fees?,Fees,which payment methods are accepted for fees
+What are the hostel timings?,Hostel,what are the hostel timings
+What is the exam schedule?,Exam,what is the exam schedule
+Are applications open for the new session?,Admission,are applications open for the new session
+Can I change my course after taking admission?,Admission,can i change my course after taking admission
+Is there a holiday tomorrow according to the schedule?,Timetable,is there a holiday tomorrow according to the schedule
+How do I get a hostel fee receipt?,Hostel,how do i get a hostel fee receipt
+Does the university offer sports scholarships?,Scholarship,does the university offer sports scholarships
+What is the last date for fee payment?,Fees,what is the last date for fee payment
+Who is the hostel warden?,Hostel,who is the hostel warden
+What is the tuition fee for this course?,Fees,what is the tuition fee for this course
+When will scholarship results be announced?,Scholarship,when will scholarship results be announced
+Is there a minimum attendance requirement for exams?,Exam,is there a minimum attendance requirement for exams
+Where can I check the updated timetable?,Timetable,where can i check the updated timetable
+Where can I check my pending dues?,Fees,where can i check my pending dues
+Are practical exams conducted separately?,Exam,are practical exams conducted separately
+When is the tutorial period?,Timetable,when is the tutorial period
+Can I get admission without an entrance exam?,Admission,can i get admission without an entrance exam
+How do I correct a fee payment error?,Fees,how do i correct a fee payment error
+How can I download my fee receipt?,Fees,how can i download my fee receipt
+Is WiFi available in the hostel?,Hostel,is wifi available in the hostel
+How much is the examination fee?,Fees,how much is the examination fee
+Can a postgraduate student apply for scholarship?,Scholarship,can a postgraduate student apply for scholarship
+How can I check my scholarship status?,Scholarship,how can i check my scholarship status
+What are the eligibility criteria for admission?,Admission,what are the eligibility criteria for admission
+Where can I submit the scholarship form?,Scholarship,where can i submit the scholarship form
+What documents are needed for hostel admission?,Hostel,what documents are needed for hostel admission
+Whom should I contact about a fee issue?,Fees,whom should i contact about a fee issue
+Can I apply for a supplementary exam?,Exam,can i apply for a supplementary exam
+What is the annual fee for this program?,Fees,what is the annual fee for this program
+What certificates are needed during admission?,Admission,what certificates are needed during admission
+Can I book a hostel room online?,Hostel,can i book a hostel room online
+Is the hostel fee included in the tuition fee?,Fees,is the hostel fee included in the tuition fee
+How many lectures do we have on Monday?,Timetable,how many lectures do we have on monday
+How do I check my admission status?,Admission,how do i check my admission status
+When will the admit card be released?,Exam,when will the admit card be released
+How can I report a hostel maintenance issue?,Hostel,how can i report a hostel maintenance issue
+When does hostel registration start?,Hostel,when does hostel registration start
+When is the scholarship application deadline?,Scholarship,when is the scholarship application deadline
+Are there any late payment charges?,Fees,are there any late payment charges
+Can I apply for two courses at the same time?,Admission,can i apply for two courses at the same time
+How do I correct my scholarship application?,Scholarship,how do i correct my scholarship application
+What are the college timings?,Timetable,what are the college timings
+When is the last date to submit the admission form?,Admission,when is the last date to submit the admission form
+How can I contact the admission office?,Admission,how can i contact the admission office
+Which documents are required for scholarship?,Scholarship,which documents are required for scholarship
+Which documents are required for admission?,Admission,which documents are required for admission
+How do I confirm my seat?,Admission,how do i confirm my seat
+Is there a separate registration fee?,Fees,is there a separate registration fee
+At what time does the library open?,Timetable,at what time does the library open
+Is direct admission available?,Admission,is direct admission available
+Can I change my hostel room?,Hostel,can i change my hostel room
+What is the timing of the morning shift?,Timetable,what is the timing of the morning shift
+What is the income limit for scholarship eligibility?,Scholarship,what is the income limit for scholarship eligibility
+How can I get my answer sheet rechecked?,Exam,how can i get my answer sheet rechecked
+When is the last date to submit the exam form?,Exam,when is the last date to submit the exam form
+How can I apply for a scholarship?,Scholarship,how can i apply for a scholarship
+When will examination results be declared?,Exam,when will examination results be declared
+What scholarships are available for students?,Scholarship,what scholarships are available for students
+How can I apply for a hostel room?,Hostel,how can i apply for a hostel room
+Can I get the timetable for my section?,Timetable,can i get the timetable for my section
+Are visitors allowed in the hostel?,Hostel,are visitors allowed in the hostel
+Can I apply for more than one scholarship?,Scholarship,can i apply for more than one scholarship
+Where can I find the exam date sheet?,Exam,where can i find the exam date sheet
+How do I apply for a back paper?,Exam,how do i apply for a back paper
+What is the process for revaluation?,Exam,what is the process for revaluation
+Where can I find my class timetable?,Timetable,where can i find my class timetable
+When will internal assessment marks be uploaded?,Exam,when will internal assessment marks be uploaded
+Is there a hostel security deposit?,Hostel,is there a hostel security deposit
+Has my fee payment been received?,Fees,has my fee payment been received
+When will the new semester timetable be uploaded?,Timetable,when will the new semester timetable be uploaded
+Can I change my exam centre?,Exam,can i change my exam centre
+Are separate hostels available for boys and girls?,Hostel,are separate hostels available for boys and girls
+How can I download the weekly timetable?,Timetable,how can i download the weekly timetable
+How can I get a duplicate fee receipt?,Fees,how can i get a duplicate fee receipt
+Can I get a refund of my college fees?,Fees,can i get a refund of my college fees
+What is the lab timetable?,Timetable,what is the lab timetable
+What is the admission process?,Admission,what is the admission process
+Where is my examination centre?,Exam,where is my examination centre
+How can I pay my semester fees?,Fees,how can i pay my semester fees
+When will admissions open?,Admission,when will admissions open
+Is there an option to pay fees in installments?,Fees,is there an option to pay fees in installments
+What time do classes end?,Timetable,what time do classes end
+Whom should I contact about scholarship queries?,Scholarship,whom should i contact about scholarship queries
+Are scholarships available for reserved categories?,Scholarship,are scholarships available for reserved categories
+Which room is assigned to our lecture?,Timetable,which room is assigned to our lecture
+Can first year students get hostel accommodation?,Hostel,can first year students get hostel accommodation
+Is there a scholarship for economically weaker students?,Scholarship,is there a scholarship for economically weaker students
+What is the eligibility for a merit scholarship?,Scholarship,what is the eligibility for a merit scholarship
+Who should I contact for a timetable correction?,Timetable,who should i contact for a timetable correction
+What is the total college fee?,Fees,what is the total college fee
+Is hostel accommodation available?,Hostel,is hostel accommodation available
+Can I leave the hostel during weekends?,Hostel,can i leave the hostel during weekends
+When is our lunch break?,Timetable,when is our lunch break
+Is there an age limit for admission?,Admission,is there an age limit for admission
+Is a scholarship available based on academic marks?,Scholarship,is a scholarship available based on academic marks
+What should I do if my admit card has an error?,Exam,what should i do if my admit card has an error
+When does the first lecture start?,Timetable,when does the first lecture start
+What is the procedure to enroll in the university?,Admission,what is the procedure to enroll in the university
+Can I submit my admission documents later?,Admission,can i submit my admission documents later
+How do I register for a new academic session?,Admission,how do i register for a new academic session
+Is an entrance test compulsory for admission?,Admission,is an entrance test compulsory for admission
+Where can I get help with my admission form?,Admission,where can i get help with my admission form
+Can I check my application online?,Admission,can i check my application online
+What qualifications are needed to join this course?,Admission,what qualifications are needed to join this course
+How do I verify my admission confirmation?,Admission,how do i verify my admission confirmation
+Can I update my details in the admission form?,Admission,can i update my details in the admission form
+When will the admission merit list be published?,Admission,when will the admission merit list be published
+How much money do I need to pay per semester?,Fees,how much money do i need to pay per semester
+Can I pay my tuition fees using a debit card?,Fees,can i pay my tuition fees using a debit card
+Where can I see my outstanding college balance?,Fees,where can i see my outstanding college balance
+How do I request a refund for excess payment?,Fees,how do i request a refund for excess payment
+Is there a penalty for paying fees late?,Fees,is there a penalty for paying fees late
+Can I download the payment confirmation?,Fees,can i download the payment confirmation
+What is the fee structure for MCA?,Fees,what is the fee structure for mca
+"My online fee transaction failed, what should I do?",Fees,my online fee transaction failed what should i do
+How can I check my payment history?,Fees,how can i check my payment history
+Can I pay the university fees in parts?,Fees,can i pay the university fees in parts
+What is the date of the upcoming university examination?,Exam,what is the date of the upcoming university examination
+How do I register for semester examinations?,Exam,how do i register for semester examinations
+When can I collect my examination hall ticket?,Exam,when can i collect my examination hall ticket
+What is the procedure for a missed exam?,Exam,what is the procedure for a missed exam
+Where are the practical examination details available?,Exam,where are the practical examination details available
+How can I apply for a reappear examination?,Exam,how can i apply for a reappear examination
+When will the university publish the results?,Exam,when will the university publish the results
+Can I request a correction in my exam marks?,Exam,can i request a correction in my exam marks
+What is the examination registration deadline?,Exam,what is the examination registration deadline
+How can I check my internal assessment scores?,Exam,how can i check my internal assessment scores
+How can I reserve accommodation on campus?,Hostel,how can i reserve accommodation on campus
+Are hostel rooms available for postgraduate students?,Hostel,are hostel rooms available for postgraduate students
+Does the hostel provide meals every day?,Hostel,does the hostel provide meals every day
+Can I get information about hostel room charges?,Hostel,can i get information about hostel room charges
+Is there a curfew time for hostel residents?,Hostel,is there a curfew time for hostel residents
+How can I contact the hostel management?,Hostel,how can i contact the hostel management
+Are air conditioned rooms available in the hostel?,Hostel,are air conditioned rooms available in the hostel
+What is the process for leaving the hostel?,Hostel,what is the process for leaving the hostel
+Can I get a room with WiFi access?,Hostel,can i get a room with wifi access
+Is a hostel room available for new students?,Hostel,is a hostel room available for new students
+Where can I find the university scholarship details?,Scholarship,where can i find the university scholarship details
+What marks are required for a merit based scholarship?,Scholarship,what marks are required for a merit based scholarship
+How do I submit my scholarship documents?,Scholarship,how do i submit my scholarship documents
+Can I receive financial assistance from the university?,Scholarship,can i receive financial assistance from the university
+Is there any scholarship for postgraduate courses?,Scholarship,is there any scholarship for postgraduate courses
+How can I renew my financial aid application?,Scholarship,how can i renew my financial aid application
+Why is my scholarship application still pending?,Scholarship,why is my scholarship application still pending
+Are scholarships available for low income families?,Scholarship,are scholarships available for low income families
+When will the scholarship amount be transferred?,Scholarship,when will the scholarship amount be transferred
+Can I get a scholarship based on academic performance?,Scholarship,can i get a scholarship based on academic performance
+What time does the morning class begin?,Timetable,what time does the morning class begin
+Can I see the timetable for my department?,Timetable,can i see the timetable for my department
+When is the next lecture scheduled?,Timetable,when is the next lecture scheduled
+Are there any classes scheduled for Sunday?,Timetable,are there any classes scheduled for sunday
+Where can I find the updated class schedule?,Timetable,where can i find the updated class schedule
+What time is the computer lab session?,Timetable,what time is the computer lab session
+Has the university changed today's lecture timing?,Timetable,has the university changed todays lecture timing
+How many periods are scheduled each day?,Timetable,how many periods are scheduled each day
+When does the afternoon shift begin?,Timetable,when does the afternoon shift begin
+Where can I check my weekly lecture schedule?,Timetable,where can i check my weekly lecture schedule
